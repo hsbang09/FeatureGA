@@ -35,8 +35,8 @@
       <file leaf-file-name="FeatureTreeVariable.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java/src/eoss/FeatureTreeVariable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-62">
-              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+            <state relative-caret-position="780">
+              <caret line="68" column="39" lean-forward="true" selection-start-line="68" selection-start-column="39" selection-end-line="68" selection-end-column="39" />
               <folding>
                 <element signature="e#1401#1402#0" expanded="true" />
                 <element signature="e#1443#1444#0" expanded="true" />
@@ -639,8 +639,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/eoss/FeatureTreeVariable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-62">
-          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        <state relative-caret-position="780">
+          <caret line="68" column="39" lean-forward="true" selection-start-line="68" selection-start-column="39" selection-end-line="68" selection-end-column="39" />
           <folding>
             <element signature="e#1401#1402#0" expanded="true" />
             <element signature="e#1443#1444#0" expanded="true" />
